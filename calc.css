@@ -1,0 +1,25 @@
+.jskmb-calculator {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: azure;
+    padding: 20px;
+    border: 5px solid black;
+
+
+}
+
+.jskmb-calculator .operation-block button {
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+}
+
+.jskmb-calculator .inputs-block .input-block {
+    display: inline-block;
+    padding: 10px;
+}
+
+.jskmb-calculator .inputs-block .input-block label {
+    display: block;
+}
